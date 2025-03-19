@@ -15,6 +15,10 @@ I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthus
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" />
 
   <!-- Microsoft SQL Server -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="60" height="60" />
+
+ <!-- Notion -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="50" height="50" />
+          
           
 Let's analyze, visualize, and optimize. 🚀
