@@ -14,18 +14,18 @@ I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthus
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" />
 
-  <!-- Microsoft SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" alt="Microsoft SQL Server" width="80" height="50" />
+  <!-- Microsoft SQL Server (Updated Icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="80" height="50" />
 
   <!-- Tableau (Custom Icon) -->
   <img src="https://i.postimg.cc/CxhPmb2w/icons8-tableau-software-480.png" alt="Tableau" width="50" height="50" />
 
-  <!-- Notion -->
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <!-- Notion (Updated Icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="50" height="50" />
 
   <!-- Microsoft Excel (Custom Icon) -->
   <img src="https://i.postimg.cc/L4k3wnL5/icons8-excel-480.png" alt="Microsoft Excel" width="50" height="50" />
 </p>
 
-          
+ 
 Let's analyze, visualize, and optimize. 🚀
