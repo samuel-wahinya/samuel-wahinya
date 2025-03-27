@@ -8,9 +8,7 @@ I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthus
 - 📚 **Notion Productivity:** Designing custom workflows, automations, and templates for life and work organization.
 - 🔄 **Process Optimization:** Automating repetitive tasks to enhance efficiency and save time.
 
-## 🛠 Languages & Tools  
-
-## 🛠 Languages & Tools  
+## 🛠 Languages & Tools 
 
 <p align="left">
   <!-- SQL -->
