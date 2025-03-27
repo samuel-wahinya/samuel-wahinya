@@ -25,6 +25,9 @@ I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthus
 
   <!-- Microsoft Excel (Custom Icon) -->
   <img src="https://i.postimg.cc/L4k3wnL5/icons8-excel-480.png" alt="Microsoft Excel" width="50" height="50" />
+
+   <!-- Microsoft Access -->
+  <img src="https://i.postimg.cc/g0SrS86w/icons8-microsoft-access-2019-240.png" alt="Microsoft Access" width="50" height="50" />
 </p>
 
  
