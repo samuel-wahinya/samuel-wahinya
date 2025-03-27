@@ -10,25 +10,27 @@ I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthus
 
 ## 🛠 Languages & Tools  
 
+## 🛠 Languages & Tools  
+
 <p align="left">
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50" />
 
-  <!-- Microsoft SQL Server (Updated Icon) -->
+  <!-- Microsoft SQL Server -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server" width="80" height="50" />
 
-  <!-- Tableau (Custom Icon) -->
+  <!-- Tableau -->
   <img src="https://i.postimg.cc/CxhPmb2w/icons8-tableau-software-480.png" alt="Tableau" width="50" height="50" />
 
-  <!-- Notion (Updated Icon) -->
+  <!-- Notion -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="50" height="50" />
 
-  <!-- Microsoft Excel (Custom Icon) -->
+  <!-- Microsoft Excel -->
   <img src="https://i.postimg.cc/L4k3wnL5/icons8-excel-480.png" alt="Microsoft Excel" width="50" height="50" />
 
-   <!-- Microsoft Access -->
+  <!-- Microsoft Access -->
   <img src="https://i.postimg.cc/g0SrS86w/icons8-microsoft-access-2019-240.png" alt="Microsoft Access" width="50" height="50" />
 </p>
 
- 
+
 Let's analyze, visualize, and optimize. 🚀
