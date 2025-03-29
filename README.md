@@ -1,6 +1,6 @@
 # Samuel Wahinya
 
-I'm a SQL Data Analyst, Tableau Viz Specialist, and a Notion Productivity Enthusiast. I specialize in transforming raw data into actionable insights, building engaging visualizations, and creating systems that enhance efficiency and productivity.
+I'm a SQL Data Analyst, Tableau dashboard developer, and a Notion Productivity Enthusiast. I specialize in transforming raw data into actionable insights, building engaging visualizations, and creating systems that enhance efficiency and productivity.
 
 ## 🚀 What I Do
 - 📊 **Data & Analytics:** SQL expert, building dashboards in Tableau, and making data-driven decisions.
