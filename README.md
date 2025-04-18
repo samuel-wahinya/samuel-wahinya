@@ -26,7 +26,23 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
     <!-- Project 1: VelociMart -->
     <td align="center">
       <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
-        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="1280" height="640"/><br />
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="300" height="170"/><br />
+        <strong>VelociMart Business Intelligence</strong>
+      </a>
+      <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
+    </td>
+    <!-- Project 2: VelociMart (Duplicate for now) -->
+    <td align="center">
+      <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="300" height="170"/><br />
+        <strong>VelociMart Business Intelligence</strong>
+      </a>
+      <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
+    </td>
+    <!-- Project 3: VelociMart (Duplicate for now) -->
+    <td align="center">
+      <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="300" height="170"/><br />
         <strong>VelociMart Business Intelligence</strong>
       </a>
       <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
