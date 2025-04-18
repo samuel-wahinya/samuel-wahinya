@@ -19,6 +19,39 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
 - Design visual solutions for executives and operational teams with dynamic filters and KPIs.
 - Simplify reporting using intuitive and user-friendly interfaces.
 
+## 🧩 Portfolio
+
+<table>
+  <tr>
+    <!-- VelociMart Project -->
+    <td align="center">
+      <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="300" height="170"/><br />
+        <strong>VelociMart Business Intelligence</strong>
+      </a>
+      <p>Data warehouse project with Tableau dashboard for a cycling e-commerce company.</p>
+    </td>
+
+    <!-- Placeholder Project 1 -->
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Coming+Soon" alt="Coming Soon Project 1" width="300" height="170"/><br />
+        <strong>Project Title Coming Soon</strong>
+      </a>
+      <p>Brief description of the upcoming project.</p>
+    </td>
+
+    <!-- Placeholder Project 2 -->
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/300x170.png?text=Coming+Soon" alt="Coming Soon Project 2" width="300" height="170"/><br />
+        <strong>Project Title Coming Soon</strong>
+      </a>
+      <p>Brief description of the upcoming project.</p>
+    </td>
+  </tr>
+</table>
+
 ## 🛠 Languages & Tools 
 
 <p align="left">
