@@ -1,12 +1,23 @@
 # Samuel Wahinya
 
-I'm a Data Warehouse Engineer, SQL Data Analyst, Tableau dashboard developer, and a Notion Productivity Enthusiast. I specialize in transforming raw data into actionable insights, building engaging visualizations, and creating systems that enhance efficiency and productivity.
+I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard developer**, and a **Notion Productivity Enthusiast**. I specialize in transforming raw data into actionable insights, building engaging visualizations, and creating systems that enhance efficiency and productivity.
 
 ## 🚀 What I Do
-- 📊 **Data & Analytics:** SQL expert, building dashboards in Tableau, and making data-driven decisions.
-- 🎨 **Data Visualization:** Turning complex datasets into interactive and insightful dashboards.
-- 📚 **Notion Productivity:** Designing custom workflows, automations, and templates for life and work organization.
-- 🔄 **Process Optimization:** Automating repetitive tasks to enhance efficiency and save time.
+
+### 🏗️ Data Engineering
+- Design and implement scalable data pipelines using SQL Server and Medallion Architecture (Bronze → Silver → Gold).
+- Build reliable data warehouses to support fast and accurate reporting.
+- Automate data workflows to minimize manual effort and enhance data freshness.
+
+### 📊 Data Analysis
+- Perform in-depth analysis using advanced SQL techniques to uncover trends, patterns, and insights.
+- Develop data models and KPIs to support business decision-making.
+- Create audit-ready datasets with robust data quality checks and validation logic.
+
+### 🎨 Data Visualization
+- Build interactive dashboards in **Tableau** to translate complex data into clear, actionable stories.
+- Design visual solutions for executives and operational teams with dynamic filters and KPIs.
+- Simplify reporting using intuitive and user-friendly interfaces.
 
 ## 🛠 Languages & Tools 
 
@@ -26,9 +37,8 @@ I'm a Data Warehouse Engineer, SQL Data Analyst, Tableau dashboard developer, an
   <!-- Microsoft Excel -->
   <img src="https://i.postimg.cc/L4k3wnL5/icons8-excel-480.png" alt="Microsoft Excel" width="50" height="50" />
 
-<!-- Microsoft Access -->
-<img width="50" height="50" src="https://img.icons8.com/fluency/50/microsoft-access-2019.png" alt="Microsoft Access"/>
+  <!-- Microsoft Access -->
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/microsoft-access-2019.png" alt="Microsoft Access"/>
 </p>
-
 
 Let's analyze, visualize, and optimize. 🚀
