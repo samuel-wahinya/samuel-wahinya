@@ -26,7 +26,7 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
     <!-- Project 1: VelociMart -->
     <td align="center">
       <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
-        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="300" height="170"/><br />
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="400" height="200"/><br />
         <strong>VelociMart Business Intelligence</strong>
       </a>
       <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
@@ -34,10 +34,10 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
     <!-- Project 2: Havenhill Regional Hospital Flu Dashboard -->
     <td align="center">
       <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
-        <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true" alt="Havenhill BI Project" width="300" height="170"/><br />
+        <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true" alt="Havenhill BI Project" width="400" height="200"/><br />
         <strong>Havenhill Regional Hospital Flu Dashboard</strong>
       </a>
-      <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
+      <p>Flu Shots Tableau dashboard for Havenhill Regional Hospital.</p>
     </td>
   </tr>
 </table>
