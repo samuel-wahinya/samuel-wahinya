@@ -21,31 +21,31 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
 
 ## 🧩 Portfolio
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- Project 1: VelociMart -->
+    <td style="text-align: center; vertical-align: top; padding: 20px;">
+      <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
+        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true"
+             alt="VelociMart BI Project"
+             style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <h3>VelociMart Business Intelligence</h3>
+      </a>
+      <p>Designed a full-stack data warehouse and sales analytics dashboard that empowered VelociMart’s leadership team to make data-driven decisions. The solution provided real-time insights into product performance, regional trends, and sales rep effectiveness—resulting in improved inventory planning, targeted promotions, and a measurable increase in revenue efficiency.</p>
+    </td>
+    <!-- Project 2: Havenhill -->
+    <td style="text-align: center; vertical-align: top; padding: 20px;">
+      <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
+        <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true"
+             alt="Havenhill BI Project"
+             style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <h3>Havenhill Regional Hospital Flu Dashboard</h3>
+      </a>
+      <p>Developed an interactive Tableau dashboard that enabled Havenhill Regional Hospital to monitor flu shot compliance across demographics and counties. This tool became a key asset for medical directors and outreach teams, directly supporting targeted vaccination efforts and contributing to an overall 81.4% patient immunization rate in 2022.</p>
 
-  <!-- Project 1 -->
-  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
-    <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
-      <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true"
-           alt="VelociMart BI Project"
-           style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-      <h3>VelociMart Business Intelligence</h3>
-    </a>
-    <p>Data warehouse & Sales dashboard for VelociMart company.</p>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
-    <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
-      <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true"
-           alt="Havenhill BI Project"
-           style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-      <h3>Havenhill Regional Hospital Flu Dashboard</h3>
-    </a>
-    <p>Flu Shots Tableau dashboard for Havenhill Regional Hospital.</p>
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 Languages & Tools 
