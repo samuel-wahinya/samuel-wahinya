@@ -21,26 +21,32 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
 
 ## 🧩 Portfolio
 
-<table>
-  <tr>
-    <!-- Project 1: VelociMart -->
-    <td align="center">
-      <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
-        <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="400" height="200"/><br />
-        <strong>VelociMart Business Intelligence</strong>
-      </a>
-      <p>Data warehouse & Sales dashboard for VelociMart company.</p>
-    </td>
-    <!-- Project 2: Havenhill Regional Hospital Flu Dashboard -->
-    <td align="center">
-      <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
-        <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true" alt="Havenhill BI Project" width="400" height="200"/><br />
-        <strong>Havenhill Regional Hospital Flu Dashboard</strong>
-      </a>
-      <p>Flu Shots Tableau dashboard for Havenhill Regional Hospital.</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Project 1 -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
+      <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true"
+           alt="VelociMart BI Project"
+           style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <h3>VelociMart Business Intelligence</h3>
+    </a>
+    <p>Data warehouse & Sales dashboard for VelociMart company.</p>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="flex: 1 1 400px; max-width: 400px; text-align: center;">
+    <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
+      <img src="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard/blob/main/docs/Healthcare-Dashboard.jpg?raw=true"
+           alt="Havenhill BI Project"
+           style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <h3>Havenhill Regional Hospital Flu Dashboard</h3>
+    </a>
+    <p>Flu Shots Tableau dashboard for Havenhill Regional Hospital.</p>
+  </div>
+
+</div>
+
 
 ## 🛠 Languages & Tools 
 
