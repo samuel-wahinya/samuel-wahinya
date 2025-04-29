@@ -29,7 +29,7 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
         <img src="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report/blob/main/docs/CRO-Dashboard.jpg?raw=true" alt="VelociMart BI Project" width="400" height="200"/><br />
         <strong>VelociMart Business Intelligence</strong>
       </a>
-      <p>Data warehouse & Tableau dashboard for a cycling e-commerce company.</p>
+      <p>Data warehouse & Sales dashboard for VelociMart company.</p>
     </td>
     <!-- Project 2: Havenhill Regional Hospital Flu Dashboard -->
     <td align="center">
