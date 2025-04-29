@@ -29,7 +29,7 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
            alt="VelociMart BI Project"
            style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <a href="https://github.com/samuel-wahinya/VelociMart-Business-Intelligence-Report" target="_blank">
-        <h3>VelociMart Sales Dashboard</h3>
+        <strong>VelociMart Sales Dashboard</strong>
       </a>
       <p>
         Developed a sales dashboard to support VelociMart’s Chief Revenue Officer in tracking year-over-year sales and profit growth. The solution answered key business questions on seasonal sales trends, peak and low-performing months, and sales target performance. The dashboard enabled strategic decisions that optimized product timing.
@@ -41,7 +41,7 @@ I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard dev
            alt="Havenhill BI Project"
            style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <a href="https://github.com/samuel-wahinya/Havenhill-Regional-Hospital-Flu-Shot-Dashboard" target="_blank">
-        <h3>Havenhill Regional Hospital Flu Dashboard</h3>
+        <strong>Havenhill Regional Hospital Flu Dashboard</strong>
       </a>
       <p>
         Developed a Flu Shot dashboard that enabled Havenhill Regional Hospital to monitor flu shot compliance across demographics and counties. This tool became a key asset for medical directors and outreach teams, directly supporting targeted vaccination efforts and contributing to an overall 81.4% patient immunization rate in 2022.
