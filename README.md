@@ -1,6 +1,6 @@
 # Samuel Wahinya
 
-I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard developer**, and a **Notion Productivity Enthusiast**. I specialize in transforming raw data into actionable insights, building engaging visualizations, and creating systems that enhance efficiency and productivity.
+I'm a **Data Warehouse Engineer**, **SQL Data Analyst**, **Tableau dashboard developer**, and a **Notion Productivity Enthusiast**. I use SQL, Tableau & Excel to transform raw data into actionable insights and reccomendattions, building engaging visualizations, and creating systems that enhance efficiency and productivity.
 
 ## 🚀 What I Do
 
